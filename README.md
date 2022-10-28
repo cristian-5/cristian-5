@@ -8,7 +8,7 @@
 ☕️ Coffee lover and firm supporter of [RFC2324](https://www.rfc-editor.org/rfc/rfc2324)\
 ⚜️ Functional programming advocate and category theorist\
 🛠️ **Expert** of programming *langauges*, parsers, compilers and virtual machines\
-🤖 Developer of [twitch.tv](https://twitch.tv) and [Discord](https://discord.com) bots\
+🤖 Bot developer for [twitch.tv](https://twitch.tv) and [Discord](https://discord.com)\
 💕 Proficient in `c++`, `javascript` and `regexes`
 
 ♟️ Decent chess player\
