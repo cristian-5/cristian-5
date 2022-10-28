@@ -9,7 +9,7 @@
 ⚜️ Functional programming advocate and category theorist\
 🛠️ **Expert** of programming *langauges*, parsers, compilers and virtual machines\
 🤖 Bot developer for [twitch.tv](https://twitch.tv) and [Discord](https://discord.com)\
-💕 Proficient in `c++`, `javascript` and `regexes`
+💕 Highly proficient in `c++`, `javascript` and `regexes`
 
 ♟️ Decent chess player\
 🎹 Classical Piano player\
