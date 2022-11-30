@@ -21,6 +21,8 @@
 🎹 Classical <kbd>piano</kbd> player\
 ❤️‍🔥 Latin American <kbd>dancer</kbd>
 
+![](https://komarev.com/ghpvc/?username=cristian-a&label=PROFILE+VIEWS&color=blueviolet&style=flat)
+
 <details>
 <summary>🏆 <b>Certifications and Merits</b></summary><br>
 <code><b>2022</b></code> → 🎓 <b>Bachelor</b>'s degree in <a href="https://www2.dipbioter.unimol.it/informatica/">Computer Science</a>, <a href="https://www2.unimol.it">University of Molise</a>: <code>101/110</code><br>
