@@ -12,7 +12,7 @@
 🪙 **Chief Technology Officer** of [thechessnerd co.](https://www.thechessnerd.com)
 
 ☕️ Coffee lover and firm supporter of [RFC2324](https://www.rfc-editor.org/rfc/rfc2324)\
-⚜️ Functional programming advocate and category theorist\
+⚜️ Functional programming and λ-Calculus advocate\
 🛠️ **Expert** of programming *langauges*, parsers, compilers and virtual machines\
 🤖 Bot developer for <ins>[twitch.tv](https://twitch.tv)</ins> and [Discord](https://discord.com)\
 💕 Highly proficient in `c++`, `javascript` and `regexes`
