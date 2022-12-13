@@ -25,7 +25,7 @@
 
 <details>
 <summary>🏆 <b>Certifications and Merits</b></summary><br>
-<code><b>2022</b></code> → 🎓 <b>Bachelor</b>'s degree in <a href="https://www2.dipbioter.unimol.it/informatica/">Computer Science</a>, <a href="https://www2.unimol.it">University of Molise</a>: <code>101/110</code><br>
+<code>2022</code> → 🎓 <b>Bachelor</b>'s degree in <a href="https://www2.dipbioter.unimol.it/informatica/">Computer Science</a>, <a href="https://www2.unimol.it">University of Molise</a>: <code>101/110</code><br>
 <code>2022</code> → 🥘 <code>22<sup>nd</sup></code> best <b>Italian Programmer</b> on <a href="https://www.codechef.com/users/radix_sort">CodeChef</a>, rating: <code>1566?</code><br>
 <code>2021</code> → 🪙 <b>Chief Technology Officer</b> of <a href="https://www.thechessnerd.com">thechessnerd co.</a><br>
 <code>2021</code> → 🧬 <b>Bioinformatics Contest</b>, Bioinformatics Institute, <a href="https://stepik.org/">Stepik</a><br>
