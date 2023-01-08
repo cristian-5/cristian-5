@@ -9,7 +9,7 @@
 🌱 Attending **Master**'s degree in [Software Techniques](https://corsi.unibo.it/2cycle/ComputerScience), [𝒖𝒏𝒊𝒃𝒐](https://www.unibo.it)\
 🪙 **Chief Technology Officer** of [thechessnerd co.](https://www.thechessnerd.com)
 
-☕️ Coffee lover and firm supporter of [RFC2324](https://www.rfc-editor.org/rfc/rfc2324)\
+☕️ Coffee lover, firm supporter of [RFC2324](https://www.rfc-editor.org/rfc/rfc2324) and [SAVE418](https://save418.com/)\
 ⚜️ Functional programming and λ-Calculus advocate\
 🛠️ **Expert** of programming *langauges*, parsers, compilers and virtual machines\
 🤖 Bot developer for <ins>[twitch.tv](https://twitch.tv)</ins> and [Discord](https://discord.com)\
