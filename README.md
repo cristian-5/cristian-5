@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary>🕺💃 <b>Me and my partner dancing</b></summary><br>
+<summary>🕺💃 <b>Me and my partner Dancing</b></summary><br>
 <img src="latin.svg" width="600px">
 </details>
 
