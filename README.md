@@ -35,3 +35,9 @@
 <code>2017</code> → ⚙️ Graduated <b>Technical Institute</b> <a href="https://www.itiscassino.edu.it">E. Majorana</a>, CS Department: <code>95/100</code><br>
 <code>2016</code> → 🇬🇧 <b>Cambridge English PET</b> Level 1, Pass with Distinction: <code>163/170</code> <b>B2</b>
 </details>
+
+<details>
+<summary>🕺💃 <b>Me and my partner dancing</b></summary><br>
+<img src="latin.svg" width="600px">
+</details>
+
