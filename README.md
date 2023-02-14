@@ -25,7 +25,7 @@
 <summary>🏆 <b>Certifications and Merits</b></summary><br>
 <code>2022</code> → 🎓 <b>Bachelor</b>'s degree in <a href="https://www2.dipbioter.unimol.it/informatica/">Computer Science</a>, <a href="https://www2.unimol.it">University of Molise</a>: <code>101/110</code><br>
 <code>2022</code> → 🎗️ Pledged to the <b>Turing Oath</b> for AI Etiquette<br>
-<code>2022</code> → 🥘 <code>46<sup>th</sup></code> best <b>Italian Programmer</b> on <a href="https://www.codechef.com/users/radix_sort">CodeChef</a>, rating: <code>1334?</code><br>
+<code>2022</code> → 🥘 <code>40<sup>th</sup></code> best <b>Italian Programmer</b> on <a href="https://www.codechef.com/users/radix_sort">CodeChef</a>, rating: <code>1334?</code><br>
 <code>2021</code> → 🪙 <b>Chief Technology Officer</b> of <a href="https://www.thechessnerd.com">thechessnerd co.</a><br>
 <code>2021</code> → 🧬 <b>Bioinformatics Contest</b>, Bioinformatics Institute, <a href="https://stepik.org/">Stepik</a><br>
 <code>2021</code> → 🗄️ <b>HackerRank</b> <a href="https://www.hackerrank.com/certificates/7761b34ed6f8">Structured Query Language</a> Certification <br>
