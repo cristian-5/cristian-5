@@ -19,7 +19,9 @@
 🎹 Classical <kbd>piano</kbd> player\
 ❤️‍🔥 Latin American <kbd>dancer</kbd>
 
-![](https://komarev.com/ghpvc/?username=cristian-a&label=PROFILE+VIEWS&color=blueviolet&style=flat)
+![codewars](https://www.codewars.com/users/xor_swap/badges/large)
+
+![views](https://komarev.com/ghpvc/?username=cristian-a&label=PROFILE+VIEWS&color=blueviolet&style=flat)
 
 <details>
 <summary>🏆 <b>Certifications and Merits</b></summary><br>
