@@ -14,7 +14,7 @@
 🛠️ **Expert** of programming *langauges*, parsers, compilers and VMs\
 🤖 Bot developer for <ins>[twitch.tv](https://twitch.tv)</ins> and [Discord](https://discord.com)\
 💕 Highly proficient in `c++`, `javascript` and `assembly`\
-🔹 Blue belt <kbd>3 kyu</kbd> away from a <kbd>dan</kbd> in coding on [**CODEWARS**](https://codewars.com)
+🟣 Purple belt <kbd>2 kyu</kbd> away from a <kbd>dan</kbd> in coding on [**CODEWARS**](https://codewars.com)
 
 ♟️ Decent <kbd>chess</kbd> player\
 🎹 Classical <kbd>piano</kbd> player\
