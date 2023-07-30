@@ -7,14 +7,14 @@
 
 🎓 **Bachelor**'s degree in [Computer Science](https://www2.dipbioter.unimol.it/informatica/), [𝒖𝒏𝒊𝒎𝒐𝒍](https://www2.unimol.it)\
 🌱 Attending **Master**'s degree in [Software Techniques](https://corsi.unibo.it/2cycle/ComputerScience), [𝒖𝒏𝒊𝒃𝒐](https://www.unibo.it)\
-🪙 **Chief Technology Officer** of [thechessnerd co.](https://www.thechessnerd.com)
+💕 Programming **International Master**, `2 kyu` on [**CODEWARS**]([https://www.codewars.com](https://www.codewars.com/users/xor_swap))
 
 ☕️ Coffee lover, firm supporter of [RFC2324](https://www.rfc-editor.org/rfc/rfc2324) and [SAVE418](https://save418.com/)\
+🔣 Polyglot speaker of *Italian*, *English*, *Spanish*, currently learning *Latin*\
 ⚜️ Functional programming and λ-Calculus advocate\
 🛠️ **Expert** of programming *langauges*, parsers, compilers and VMs\
 🤖 Bot developer for [twitch.tv](https://www.twitch.tv/KnightShadow98) and [Discord](http://discord.com/users/393073920867041280)\
-💎 Highly proficient in `c++`, `javascript` and `assembly`\
-💕 Purple belt <kbd>2 kyu</kbd> away from a <kbd>dan</kbd> in coding on [**CODEWARS**](https://www.codewars.com/users/xor_swap)
+💎 Highly proficient in `c++`, `javascript` and `assembly`
 
 ♟️ Decent <kbd>chess</kbd> player\
 🎹 Classical <kbd>piano</kbd> player\
@@ -30,11 +30,10 @@
 
 <details>
 <summary>🏆 <b>Certifications and Merits</b></summary><br>
-<code>2024</code> → 🥈 Coding <b>International Master</b>, top <code>1.1%</code><br>
+<code>2023</code> → 🥈 Programming <b>International Master</b>, top <code>1.1%</code> worldwide<br>
 <code>2022</code> → 🎓 <b>Bachelor</b>'s degree in <a href="https://www2.dipbioter.unimol.it/informatica/">Computer Science</a>, <a href="https://www2.unimol.it">University of Molise</a>: <code>101/110</code><br>
 <code>2022</code> → 🎗️ Pledged to the <b>Turing Oath</b> for AI Etiquette<br>
-<code>2022</code> → 💖 <kbd>2 kyu</kbd> coding <b>International Master</b> on <a href="https://www.codewars.com/users/xor_swap">CODEWARS</a><br>
-<code>2021</code> → 🪙 <b>Chief Technology Officer</b> of <a href="https://www.thechessnerd.com">thechessnerd co.</a> (ended <code>2024</code>)<br>
+<code>2021</code> → 🪙 <b>Chief Technology Officer</b> of <a href="https://www.thechessnerd.com">thechessnerd co.</a> (ended <code>2023</code>)<br>
 <code>2021</code> → 🧬 <b>Bioinformatics Contest</b>, Bioinformatics Institute, <a href="https://stepik.org/">Stepik</a><br>
 <code>2021</code> → 🗄️ <b>HackerRank</b> <a href="https://www.hackerrank.com/certificates/7761b34ed6f8">Structured Query Language</a> Certification <br>
 <code>2021</code> → 💊 <b>HackerRank</b> <a href="https://www.hackerrank.com/certificates/3d8ccbb52fb7">JavaScript</a> Certification<br>
