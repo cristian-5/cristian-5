@@ -13,7 +13,7 @@
 🔣 Polyglot speaker of **Italian**, **English**, **Spanish**, learning **Latin**\
 ⚜️ Functional programming and λ-Calculus advocate\
 🛠️ **Expert** of programming *langauges*, parsers, compilers and VMs\
-🤖 Bot developer for [twitch.tv](https://www.twitch.tv/) and [Discord](http://discord.com/)\
+🤖 Bot developer for [twitch.tv](https://www.twitch.tv/) and [Discord](https://discord.com/)\
 💎 Highly proficient in `c++`, `javascript` and `assembly`
 
 ♟️ Decent <kbd>chess</kbd> player\
@@ -24,7 +24,7 @@
 <a href="https://www.codewars.com/users/xor_swap">
   ![codewars](https://img.shields.io/badge/dynamic/json?color=B1361E&label=CODEWARS&query=%24.ranks.overall.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fxor_swap)
 </a>
-<a href="http://discord.com/users/393073920867041280">
+<a href="https://discord.com/users/393073920867041280">
   ![discord](https://img.shields.io/badge/DISCORD-%40cristian__5-5A65F2)
 </a>
 
