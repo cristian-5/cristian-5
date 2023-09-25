@@ -15,7 +15,7 @@
 🎖️ **Expert** of programming *languages*, parsers, compilers and VMs\
 💎 Highly proficient in `c++`, `javascript`, `webassembly` and `assembly`
 
-♟️ Decent <kbd>chess</kbd> player\
+♟️ Expert <kbd>chess</kbd> player\
 🎹 Classical <kbd>piano</kbd> player\
 ❤️‍🔥 Latin American <kbd>dancer</kbd>
 
