@@ -12,9 +12,8 @@
 ☕️ Coffee lover, firm supporter of [RFC2324](https://www.rfc-editor.org/rfc/rfc2324) and [SAVE418](https://save418.com/)\
 🔣 Polyglot speaker of **Italian**, **English**, **Spanish**, learning **Latin**\
 ⚜️ Functional programming and λ-Calculus advocate\
-🛠️ **Expert** of programming *languages*, parsers, compilers and VMs\
-🤖 Bot developer for [twitch.tv](https://www.twitch.tv/) and [Discord](https://discord.com/)\
-💎 Highly proficient in `c++`, `javascript` and `assembly`
+🎖️ **Expert** of programming *languages*, parsers, compilers and VMs\
+💎 Highly proficient in `c++`, `javascript`, `webassembly` and `assembly`
 
 ♟️ Decent <kbd>chess</kbd> player\
 🎹 Classical <kbd>piano</kbd> player\
