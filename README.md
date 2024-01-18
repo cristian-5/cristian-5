@@ -10,9 +10,9 @@
 💕 Programming **International Master**, `2 kyu` on [**CODEWARS**]([https://www.codewars.com](https://www.codewars.com/users/xor_swap))
 
 ☕️ Coffee lover, firm supporter of [RFC2324](https://www.rfc-editor.org/rfc/rfc2324) and [SAVE418](https://save418.com/)\
-🔣 Polyglot speaker of **Italian**, **English**, **Spanish**, learning **Latin**\
+🔣 Polyglot speaker of **Italian**, **English**, **Spanish**\
 ⚜️ Functional programming and λ-Calculus advocate\
-🎖️ **Expert** of programming *languages*, parsers, compilers and VMs\
+🎖️ **Expert** of *compilers*, programming *languages*, *parsers* and VMs\
 💎 Highly proficient in `c++`, `javascript`, `webassembly` and `assembly`
 
 ♟️ Expert <kbd>chess</kbd> player\
