@@ -29,6 +29,7 @@
 
 <details>
 <summary>🏆 <b>Certifications and Merits</b></summary><br>
+<code>2024</code> → 📚 High School <b>Teacher</b><br>
 <code>2023</code> → 🥈 Programming <b>International Master</b>, top <code>0.99%</code> worldwide<br>
 <code>2022</code> → 🎓 <b>Bachelor</b>'s degree in <a href="https://www2.dipbioter.unimol.it/informatica/">Computer Science</a>, <a href="https://www2.unimol.it">University of Molise</a>: <code>101/110</code><br>
 <code>2022</code> → 🎗️ Pledged to the <b>Turing Oath</b> for AI Etiquette<br>
