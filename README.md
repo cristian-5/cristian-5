@@ -15,10 +15,6 @@
 🎖️ **Expert** of *compilers*, programming *languages*, *parsers* and VMs\
 💎 Highly proficient in `c++`, `javascript`, `webassembly` and `assembly`
 
-♟️ Expert <kbd>chess</kbd> player\
-🎹 Classical <kbd>piano</kbd> player\
-❤️‍🔥 Latin American <kbd>dancer</kbd>
-
 ![views](https://komarev.com/ghpvc/?username=cristian-a&label=VIEWS&color=blueviolet&style=flat)
 <a href="https://www.codewars.com/users/xor_swap">
   ![codewars](https://img.shields.io/badge/dynamic/json?color=B1361E&label=CODEWARS&query=%24.ranks.overall.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fxor_swap)
