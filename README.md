@@ -5,14 +5,14 @@
 > *In engineering, if you do not know what you are doing, you should not be doing it.*\
 > — **Richard W. Hamming**
 
-🎓 **Bachelor**'s degree in [Computer Science](https://www2.dipbioter.unimol.it/informatica/), [𝒖𝒏𝒊𝒎𝒐𝒍](https://www2.unimol.it)\
+🎓 **Bachelor**'s degree in [Computer Science](https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/informatica_home), [𝒖𝒏𝒊𝒎𝒐𝒍](https://www3.unimol.it)\
 🌱 Attending **Master**'s degree in [Software Techniques](https://corsi.unibo.it/2cycle/ComputerScience), [𝒖𝒏𝒊𝒃𝒐](https://www.unibo.it)\
 💕 Programming **International Master**, `2 kyu` on [**CODEWARS**]([https://www.codewars.com](https://www.codewars.com/users/xor_swap))
 
 ☕️ Coffee lover, firm supporter of [RFC2324](https://www.rfc-editor.org/rfc/rfc2324) and [SAVE418](https://save418.com/)\
 ⚜️ Functional programming and λ-Calculus advocate\
 🎖️ **Expert** of *compilers*, programming *languages*, *parsers* and VMs\
-💎 Highly proficient in `c++`, `javascript`, `webassembly` and `assembly`
+💎 Highly proficient in `c++`, `glsl`, `javascript`, `webassembly`
 
 ![views](https://komarev.com/ghpvc/?username=cristian-a&label=VIEWS&color=blueviolet&style=flat)
 <a href="https://www.codewars.com/users/xor_swap">
@@ -24,9 +24,9 @@
 
 <details>
 <summary>🏆 <b>Certifications and Merits</b></summary><br>
-<code>2024</code> → 📚 High School <b>Teacher</b><br>
+<code>2024</code> → 📚 High School <b>Computer Science</b> Teacher<br>
 <code>2023</code> → 🥈 Programming <b>International Master</b>, top <code>0.99%</code> worldwide<br>
-<code>2022</code> → 🎓 <b>Bachelor</b>'s degree in <a href="https://www2.dipbioter.unimol.it/informatica/">Computer Science</a>, <a href="https://www2.unimol.it">University of Molise</a>: <code>101/110</code><br>
+<code>2022</code> → 🎓 <b>Bachelor</b>'s degree in <a href="https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/informatica_home">Computer Science</a>, <a href="https://www3.unimol.it">University of Molise</a>: <code>101/110</code><br>
 <code>2022</code> → 🎗️ Pledged to the <b>Turing Oath</b> for AI Etiquette<br>
 <code>2021</code> → 🇮🇹 In the top 20 best <b>Italian Programmers</b><br>
 <code>2021</code> → 🪙 <b>Chief Technology Officer</b> of <a href="https://www.thechessnerd.com">thechessnerd co.</a> (ended <code>2023</code>)<br>
