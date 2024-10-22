@@ -5,8 +5,8 @@
 > *In engineering, if you do not know what you are doing, you should not be doing it.*\
 > — **Richard W. Hamming**
 
-🎓 **Bachelor**'s degree in [Computer Science](https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/informatica_home), [𝒖𝒏𝒊𝒎𝒐𝒍](https://www3.unimol.it)\
-🌱 Attending **Master**'s degree in [Software Techniques](https://corsi.unibo.it/2cycle/ComputerScience), [𝒖𝒏𝒊𝒃𝒐](https://www.unibo.it)\
+🌱 Attending **Masters**' major in **Quantum Computing** minor **Bioinformatics**, [𝒖𝒏𝒊𝒑𝒊](https://didattica.di.unipi.it/en/master-programme-in-computer-science/)\
+🎓 **Bachelors**' in [Computer Science](https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/informatica_home) major **Programming** minor **Compilers**, [𝒖𝒏𝒊𝒎𝒐𝒍](https://www3.unimol.it)\
 💕 Programming **International Master**, `2 kyu` on [**CODEWARS**]([https://www.codewars.com](https://www.codewars.com/users/xor_swap))
 
 ☕️ Coffee lover, firm supporter of [RFC2324](https://www.rfc-editor.org/rfc/rfc2324) and [SAVE418](https://save418.com/)\
