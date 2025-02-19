@@ -24,6 +24,8 @@
 
 <details>
 <summary>🏆 <b>Certifications and Merits</b></summary><br>
+<code>2025</code> → 🏛️ Guide at the <b><a href="https://historialecassino.eu/en/home-en/">Historiale Museum</a> of <a href="https://en.wikipedia.org/wiki/Cassino">Cassino</a></b><br>
+<code>2025</code> → ⛑️ Volunteer of the Italian <b><a href="https://www.politichegiovanili.gov.it/">Universal Civil Service</a></b><br>
 <code>2024</code> → 📚 High School <b>Computer Science</b> Teacher<br>
 <code>2023</code> → 🥈 Programming <b>International Master</b>, top <code>0.99%</code> worldwide<br>
 <code>2022</code> → 🎓 <b>Bachelor</b>'s degree in <a href="https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/informatica_home">Computer Science</a>, <a href="https://www3.unimol.it">University of Molise</a>: <code>101/110</code><br>
