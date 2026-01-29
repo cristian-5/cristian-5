@@ -22,7 +22,7 @@ Comprehensive list of courses taken during my studies with the areas of interest
 |`LNG/02`| Instruction of Specialized Languages                               |    4    |
 |`LNG/10`| Pedagogy of English Literary Texts                                 |    3    |
 |`LNG/12`| English Language Proficiency Enhancement                           |    6    |
-|        | Finals                                                             |    1    |
+|        | Final Exams                                                        |    1    |
 
 ## Bachelor Degree in Computer Science L31 - 180 Credits
 
