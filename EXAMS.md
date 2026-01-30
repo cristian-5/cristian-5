@@ -1,9 +1,9 @@
 
-# Curriculum Studiorum
+# 🎓 Curriculum Studiorum
 
 Comprehensive list of courses taken during my studies with the areas of interest and credits.
 
-## Master in Content & Language Integrated Learning (CLIL) PERF1 - 60 Credits
+## 🇬🇧 Master in Content & Language Integrated Learning (CLIL) PERF1 - 60 Credits
 
 |**Area**|**Course Name**                                                     |**Credits**|
 |:------:|:-------------------------------------------------------------------|:---------:|
@@ -24,7 +24,7 @@ Comprehensive list of courses taken during my studies with the areas of interest
 |`LNG/12`| English Language Proficiency Enhancement                           | 6 |
 |        | Final Exams                                                        | 1 |
 
-## Bachelor Degree in Computer Science L31 - 180 Credits
+## 👾 Bachelor Degree in Computer Science L31 - 180 Credits
 
 |**Area**|**Course Name**                                  |**Credits**|
 |:------:|:------------------------------------------------|:---------:|
@@ -54,9 +54,9 @@ Comprehensive list of courses taken during my studies with the areas of interest
 |        | Internship                                      |  7 |
 |        | Experimental Thesis                             |  4 |
 
-## Areas of Interest
+## 📚 Subject Areas
 
-These area of interest codes are a direct translation of the Italian `SSD` codes.
+These subject codes are a direct translation of the Italian `SSD` codes.
 
 - `CSE`: Computer Science & Engineering
 - `INF`: Information Technology & Software Engineering
