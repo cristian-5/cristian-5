@@ -10,6 +10,8 @@
 🎖️ **Expert** of *compilers*, programming *languages*, *parsers* and VMs\
 💎 Highly proficient in `c++`, `glsl`, `javascript`, `webassembly`
 
+↗️ [Curriculum Studiorum](EXAMS.md)
+
 ![views](https://komarev.com/ghpvc/?username=cristian-a&label=VIEWS&color=blueviolet&style=flat)
 <a href="https://ratings.fide.com/profile/373112470">
   <img src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fratings.fide.com%2Fprofile%2F373112470&search=%3E(%5Cd%7B3%2C4%7D)%5Cs*%3C%5C%2F%5Cs*p%5Cs*%3E%5Cs*%3Cp%5B%5E%3E%5D*%3ESTANDARD&replace=%241&flags=m&label=FIDE&color=%23374684"></a>
@@ -20,13 +22,14 @@
 
 <details>
 <summary>🏆 <b>Certifications and Merits</b></summary><br>
+<code>2026</code> → 🇬🇧 <b>Master</b> in Content & Language Integrated Learning<br>
 <code>2025</code> → 🥇 1° <b>National Chess Category</b> <a href="https://ratings.fide.com/profile/373112470">FIDE</a><br>
 <code>2025</code> → 🚸 IT Specialist at <b>Child Protecive Services</b> of <a href="https://en.wikipedia.org/wiki/Cassino">Cassino</a><br>
 <code>2025</code> → 🏛️ Guide at the <a href="https://historialecassino.eu/en/home-en/">Historiale Museum</a> of <a href="https://en.wikipedia.org/wiki/Cassino">Cassino</a><br>
 <code>2025</code> → ⛑️ Volunteer of the Italian <a href="https://www.politichegiovanili.gov.it/">Universal Civil Service</a><br>
 <code>2024</code> → 📚 High School <b>Computer Science</b> Teacher<br>
 <code>2023</code> → 🥈 Programming <b>International Master</b>, top <code>0.99%</code> worldwide<br>
-<code>2022</code> → 🎓 <b>Bachelor</b>'s degree in <a href="https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/informatica_home">Computer Science</a>, <a href="https://www3.unimol.it">University of Molise</a>: <code>101/110</code><br>
+<code>2022</code> → 🎓 <b>Bachelor</b>'s Degree in <a href="https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/informatica_home">Computer Science</a>, <a href="https://www3.unimol.it">University of Molise</a>: <code>101/110</code><br>
 <code>2022</code> → 🎗️ Pledged to the <b>Turing Oath</b> for AI Etiquette<br>
 <code>2021</code> → 🇮🇹 In the top 20 best <b>Italian Programmers</b><br>
 <code>2021</code> → 🪙 <b>Chief Technology Officer</b> of <a href="https://www.thechessnerd.com">thechessnerd co.</a> (ended <code>2023</code>)<br>
