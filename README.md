@@ -10,7 +10,7 @@
 🎖️ **Expert** of *compilers*, programming *languages*, *parsers* and VMs\
 💎 Highly proficient in `c++`, `glsl`, `javascript`, `webassembly`
 
-↗️ [Curriculum Studiorum](EXAMS.md)
+↗️ [𝑪𝒖𝒓𝒓𝒊𝒄𝒖𝒍𝒖𝒎 𝑺𝒕𝒖𝒅𝒊𝒐𝒓𝒖𝒎](EXAMS.md)
 
 ![views](https://komarev.com/ghpvc/?username=cristian-a&label=VIEWS&color=blueviolet&style=flat)
 <a href="https://ratings.fide.com/profile/373112470">
