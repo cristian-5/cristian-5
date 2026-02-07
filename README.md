@@ -23,7 +23,7 @@
 <details>
 <summary>🏆 <b>Certifications and Merits</b></summary><br>
 <code>2026</code> → 🇬🇧 <b>Master</b> in Content & Language Integrated Learning<br>
-<code>2025</code> → 🥇 1° <b>National Chess Category</b> <a href="https://ratings.fide.com/profile/373112470">FIDE</a><br>
+<code>2025</code> → 🥇 <b>1° National</b> Chess Category <a href="https://ratings.fide.com/profile/373112470">FIDE</a><br>
 <code>2025</code> → 🚸 IT Specialist at <b>Child Protecive Services</b> of <a href="https://en.wikipedia.org/wiki/Cassino">Cassino</a><br>
 <code>2025</code> → 🏛️ Guide at the <a href="https://historialecassino.eu/en/home-en/">Historiale Museum</a> of <a href="https://en.wikipedia.org/wiki/Cassino">Cassino</a><br>
 <code>2025</code> → ⛑️ Volunteer of the Italian <a href="https://www.politichegiovanili.gov.it/">Universal Civil Service</a><br>
