@@ -3,7 +3,7 @@
 
 🌱 Attending **Masters**' major in **Quantum Computing** minor **Bioinformatics**, [𝒖𝒏𝒊𝒑𝒊](https://didattica.di.unipi.it/en/master-programme-in-computer-science/)\
 🎓 **Bachelors**' in [Computer Science](https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/informatica_home) major **Programming** minor **Compilers**, [𝒖𝒏𝒊𝒎𝒐𝒍](https://www3.unimol.it)\
-💕 Programming **International Master**, `2 kyu` on [**CODEWARS**](https://www.codewars.com/users/xor_swap)
+💕 Programming **International Master**, `2 kyu` on [**CODEWARS**](https://www.codewars.com/users/cristian_bmp)
 
 ☕️ Coffee lover, firm supporter of [RFC2324](https://www.rfc-editor.org/rfc/rfc2324) and [SAVE418](https://save418.com/)\
 ⚜️ Functional programming and λ-Calculus advocate\
@@ -15,8 +15,8 @@
 ![views](https://komarev.com/ghpvc/?username=cristian-a&label=VIEWS&color=blueviolet&style=flat)
 <a href="https://ratings.fide.com/profile/373112470">
   <img src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fratings.fide.com%2Fprofile%2F373112470&search=%3E(%5Cd%7B3%2C4%7D)%5Cs*%3C%5C%2F%5Cs*p%5Cs*%3E%5Cs*%3Cp%5B%5E%3E%5D*%3ESTANDARD&replace=%241&flags=m&label=FIDE&color=%23374684"></a>
-<a href="https://www.codewars.com/users/xor_swap">
-  <img src="https://img.shields.io/badge/dynamic/json?color=B1361E&label=CODEWARS&query=%24.ranks.overall.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fxor_swap"></a>
+<a href="https://www.codewars.com/users/cristian_bmp">
+  <img src="https://img.shields.io/badge/dynamic/json?color=B1361E&label=CODEWARS&query=%24.ranks.overall.name&url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2Fcristian_bmp"></a>
 <a href="https://discord.com/users/393073920867041280">
   <img src="https://img.shields.io/badge/DISCORD-%40cristian__5-5A65F2"></a>
 
