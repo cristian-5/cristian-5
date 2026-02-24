@@ -3,7 +3,7 @@
 
 🌱 Attending **Masters**' major in **Quantum Computing** minor **Bioinformatics**, [𝒖𝒏𝒊𝒑𝒊](https://didattica.di.unipi.it/en/master-programme-in-computer-science/)\
 🎓 **Bachelors**' in [Computer Science](https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/informatica_home) major **Programming** minor **Compilers**, [𝒖𝒏𝒊𝒎𝒐𝒍](https://www3.unimol.it)\
-💕 Programming **International Master**, `2 kyu` on [**CODEWARS**](https://www.codewars.com/users/cristian_bmp)
+💕 Programming **Grand Master**, `1 kyu` on [**CODEWARS**](https://www.codewars.com/users/cristian_bmp)
 
 ☕️ Coffee lover, firm supporter of [RFC2324](https://www.rfc-editor.org/rfc/rfc2324) and [SAVE418](https://save418.com/)\
 ⚜️ Functional programming and λ-Calculus advocate\
@@ -22,13 +22,14 @@
 
 <details>
 <summary>🏆 <b>Certifications and Merits</b></summary><br>
+<code>2026</code> → 🥇 Programming <b>Grand Master</b>, <code>1 kyu</code> on <a href="https://www.codewars.com/users/cristian_bmp">CODEWARS</a><br>
 <code>2026</code> → 🇬🇧 <b>Master</b> in Content & Language Integrated Learning<br>
-<code>2025</code> → 🥇 <b>1° National</b> Chess Category <a href="https://ratings.fide.com/profile/373112470">FIDE</a><br>
+<code>2025</code> → 🏁 <b>1° National</b> Chess Category <a href="https://ratings.fide.com/profile/373112470">FIDE</a><br>
 <code>2025</code> → 🚸 IT Specialist at <b>Child Protecive Services</b> of <a href="https://en.wikipedia.org/wiki/Cassino">Cassino</a><br>
 <code>2025</code> → 🏛️ Guide at the <a href="https://historialecassino.eu/en/home-en/">Historiale Museum</a> of <a href="https://en.wikipedia.org/wiki/Cassino">Cassino</a><br>
 <code>2025</code> → ⛑️ Volunteer of the Italian <a href="https://www.politichegiovanili.gov.it/">Universal Civil Service</a><br>
 <code>2024</code> → 📚 High School <b>Computer Science</b> Teacher<br>
-<code>2023</code> → 🥈 Programming <b>International Master</b>, top <code>0.99%</code> worldwide<br>
+<code>2023</code> → 🥈 Programming <b>International Master</b>, <code>2 kyu</code> on <a href="https://www.codewars.com/users/cristian_bmp">CODEWARS</a><br>
 <code>2022</code> → 🎓 <b>Bachelor</b>'s Degree in <a href="https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/informatica_home">Computer Science</a>, <a href="https://www3.unimol.it">University of Molise</a>: <code>101/110</code><br>
 <code>2022</code> → 🎗️ Pledged to the <b>Turing Oath</b> for AI Etiquette<br>
 <code>2021</code> → 🇮🇹 In the top 20 best <b>Italian Programmers</b><br>
