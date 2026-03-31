@@ -33,7 +33,7 @@
 <code>2022</code> → 🎓 <b>Bachelor</b>'s Degree in <a href="https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/informatica_home">Computer Science</a>, <a href="https://www3.unimol.it">University of Molise</a>: <code>101/110</code><br>
 <code>2022</code> → 🎗️ Pledged to the <b>Turing Oath</b> for AI Etiquette<br>
 <code>2021</code> → 🇮🇹 In the top 20 best <b>Italian Programmers</b><br>
-<code>2021</code> → 🪙 <b>Chief Technology Officer</b> of <a href="https://www.thechessnerd.com">thechessnerd co.</a> (ended <code>2023</code>)<br>
+<code>2021</code> → 🪙 <b>Chief Technology Officer</b> of <a href="https://www.thechessnerd.com">thechessnerd co.</a><br>
 <code>2021</code> → 🧬 Bioinformatics Contest, Bioinformatics Institute, <a href="https://stepik.org/">Stepik</a><br>
 <code>2021</code> → 🗄️ HackerRank <a href="https://www.hackerrank.com/certificates/7761b34ed6f8">Structured Query Language</a> Certification <br>
 <code>2021</code> → 💊 HackerRank <a href="https://www.hackerrank.com/certificates/3d8ccbb52fb7">JavaScript</a> Certification<br>
