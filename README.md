@@ -11,7 +11,7 @@
 
 ↗️ [𝑪𝒖𝒓𝒓𝒊𝒄𝒖𝒍𝒖𝒎 𝑺𝒕𝒖𝒅𝒊𝒐𝒓𝒖𝒎](EXAMS.md)
 
-![views](https://komarev.com/ghpvc/?username=cristian-a&label=VIEWS&color=blueviolet&style=flat)
+![views](https://komarev.com/ghpvc/?username=cristian-a&label=VIEWS&color=brightgreen&style=flat)
 <a href="https://ratings.fide.com/profile/373112470">
   <img src="https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fratings.fide.com%2Fprofile%2F373112470&search=%3E(%5Cd%7B3%2C4%7D)%5Cs*%3C%5C%2F%5Cs*p%5Cs*%3E%5Cs*%3Cp%5B%5E%3E%5D*%3ESTANDARD&replace=%241&flags=m&label=FIDE&color=%23374684"></a>
 <a href="https://www.codewars.com/users/cristian_bmp">
