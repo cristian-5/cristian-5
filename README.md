@@ -1,7 +1,6 @@
 
 ## Hi, I'm Cristian ✌️
 
-🌱 Attending **Masters**' major in **Quantum Computing** minor **Bioinformatics**, [𝒖𝒏𝒊𝒑𝒊](https://didattica.di.unipi.it/en/master-programme-in-computer-science/)\
 🎓 **Bachelors**' in [Computer Science](https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/informatica_home) major **Programming** minor **Compilers**, [𝒖𝒏𝒊𝒎𝒐𝒍](https://www3.unimol.it)\
 💕 Programming **Grand Master**, `1 kyu` on [**CODEWARS**](https://www.codewars.com/users/cristian_bmp)
 
