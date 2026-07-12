@@ -1,6 +1,8 @@
 
 ## Hi, I'm Cristian ✌️
 
+![1 DAN](badge.svg)
+
 🎓 **Bachelors**' in [Computer Science](https://www3.unimol.it/dipartimenti/bioscienze-e-territorio/corso/informatica_home) major **Programming** minor **Compilers**, [𝒖𝒏𝒊𝒎𝒐𝒍](https://www3.unimol.it)\
 💕 Programming **Grand Master**, `1 dan` on [**CODEWARS**](https://www.codewars.com/users/xor_swap)
 
