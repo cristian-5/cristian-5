@@ -1,6 +1,4 @@
 
-## Hi, I'm Cristian ✌️
-
 <a href="https://www.codewars.com/users/xor_swap">
   <img src="badge.svg" height="40" width="240" alt="codewars 1 dan badge">
 </a>
