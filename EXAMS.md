@@ -51,20 +51,20 @@ Comprehensive list of courses taken during my studies with the areas of interest
 |`INF/01`| Effective Communication                         |  3 |
 |`MAT/09`| Operations Research & Linear Programming        |  6 |
 |`STA/02`| Statistics for Technological Research           |  6 |
-|        | Internship                                      |  7 |
+|        | Internship (Technician)                         |  7 |
 |        | Experimental Thesis                             |  4 |
 
 ## 📚 Subject Areas
 
 These subject codes are a direct translation of the Italian `SSD` codes.
 
-- `CSE`: Computer Science & Engineering
-- `INF`: Information Technology & Software Engineering
-- `PHY`: Physics
-- `MAT`: Mathematics
-- `STA`: Statistics
-- `LNG`: Languages & Cultures
-- `IUS`: Laws and Regulations
-- `AGR`: Agricolture & Territory
-- `PSY`: Psychology
-- `PED`: Pedagogy
+- `CSE`: `INF` Computer Science & Engineering
+- `INF`: `ING-INF` Information Technology & Software Engineering
+- `PHY`: `FIS` Physics
+- `MAT`: `MAT` Mathematics
+- `STA`: `STA` Statistics
+- `LNG`: `L-LIN` Languages & Cultures
+- `IUS`: `IUS` Laws and Regulations
+- `AGR`: `AGR` Agricolture & Territory
+- `PSY`: `PSI` Psychology
+- `PED`: `PED` Pedagogy
