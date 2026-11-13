@@ -1,12 +1,13 @@
 
 # 🎓 Curriculum Studiorum
 
-Comprehensive list of courses taken during my studies with the areas of interest and credits.
+Comprehensive list of courses taken during my studies with the areas of interest
+and relative ECTS (European Credit Transfer and Accumulation System) credits.
 
-## 👾 Bachelor Degree in Computer Science L31 - 180 Credits
+## 👾 Bachelor Degree in Computer Science L31 - 180 ECTS
 
-|**Area**|**Course Name**                                    |**Credits**|
-|:-------|:--------------------------------------------------|:---------:|
+|**Area Code**    |**Course Name**                              |**ECTS**|
+|:----------------|:--------------------------------------------|:------:|
 |`SH4_8`          | English Language **CERF B1**                    |  6 |
 |`SH6_14`         | History and Evolution of Computing              |  6 |
 |`SH4_9` `PE6_4`  | Formal Languages & Compilers                    |  6 |
@@ -33,10 +34,10 @@ Comprehensive list of courses taken during my studies with the areas of interest
 |`PE7_8`          | **Internship** (140h, Network Technician)       |  7 |
 |`PE6_3` `SH4_9`  | **Experimental Thesis** Discussion & Defence    |  4 |
 
-## 🇬🇧 Content & Language Integrated Learning (CLIL) PERF1 - 60 Credits
+## 🇬🇧 Content & Language Integrated Learning (CLIL) PERF1 - 60 ECTS
 
-|**Area**|**Course Name**                                                      |**Credits**|
-|:-------|:--------------------------------------------------------------------|:---------:|
+|**Area Code**    |**Course Name**                                                |**ECTS**|
+|:----------------|:--------------------------------------------------------------|:------:|
 |`SH4_1` `SH3_11` | Cognitive, Motivational & Social Foundations of Learning Processes | 5 |
 |`SH2_4` `SH3_7`  | Laws and Regulations for Public & Private Education                | 4 |
 |`SH4_1` `SH3_3`  | Special Needs Education                                            | 5 |
@@ -53,9 +54,23 @@ Comprehensive list of courses taken during my studies with the areas of interest
 |`SH5_2`          | Pedagogy of English Literary Texts                                 | 3 |
 |`SH4_8`          | English Language Proficiency Enhancement                           | 6 |
 
+## 💾 [ATTENDING] Computer Science Laboratories Teaching Qualification B016 - 60 ECTS
+
+|**Area Code**    |**Course Name**                              |**ECTS**|
+|:----------------|:--------------------------------------------|:------:|
+|`SH3_11` `SH4_1` | General, Experimental Pedagogy & Didactics      | 10 |
+|`SH4_1` `SH3_3`  | Inclusive Education (Special Educational Needs) |  3 |
+|`SH3_1` `SH3_6`  | Cultural & Social Anthropology                  |  4 |
+|`SH4_8` `SH3_12` | Linguistic & Digital Skills                     |  3 |
+|`SH3_11` `SH3_7` | School Legislation                              |  2 |
+|`SH3_11` `SH4_1` | Teaching Methodologies                          |  2 |
+|`PE6_2` `PE6_3`  | Computer Science & Information Technology       | 16 |
+|`SH3_11` `SH3_12`| Off-Site Traineeship & Indirect Laboratories    |  5 |
+|`SH3_11` `PE6_3` | On-Site Direct Traineeship (180h, CS Teacher)   | 15 |
+
 ## 📚 Subject Areas
 
-These subject codes are dictated by the **European Research Council**.
+These subject codes are dictated by the **European Research Council**.\
 [Detailed list of areas and subjects](https://erc.europa.eu/sites/default/files/document/file/ERC_Panel_structure_2020.pdf).
 
 - `PE1`: Mathematics
