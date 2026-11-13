@@ -71,7 +71,7 @@ and relative ECTS (European Credit Transfer and Accumulation System) credits.
 ## 📚 Subject Areas
 
 These subject codes are dictated by the **European Research Council**.\
-[Detailed list of areas and subjects](https://erc.europa.eu/sites/default/files/document/file/ERC_Panel_structure_2020.pdf).
+[Detailed list of areas and subjects](ERC_Evaluation_Panels.md).
 
 - `PE1`: Mathematics
 - `PE2`: Fundamental Constituents of Matter
