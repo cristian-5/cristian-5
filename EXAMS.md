@@ -3,68 +3,69 @@
 
 Comprehensive list of courses taken during my studies with the areas of interest and credits.
 
-## 🇬🇧 Master in Content & Language Integrated Learning (CLIL) PERF1 - 60 Credits
-
-|**Area**|**Course Name**                                                     |**Credits**|
-|:------:|:-------------------------------------------------------------------|:---------:|
-|`PSY/01`| Cognitive, Motivational & Social Foundations of Learning Processes | 5 |
-|`IUS/01`| Laws and Regulations for Public & Private Education                | 4 |
-|`PED/03`| Special Needs Education                                            | 5 |
-|`PED/03`| Educational Practices & Teaching Methods for Schools               | 4 |
-|`LNG/02`| Specific Processes of Language Acquisition                         | 3 |
-|`LNG/02`| Principles of Foreign Language Teaching                            | 3 |
-|`LNG/02`| Evaluation Methods of Language & Communication Skills              | 3 |
-|`INF/05`| Basics of Computer Science                                         | 3 |
-|`INF/05`| Multimodal Teaching and Creation of Multimedia Content             | 6 |
-|`LNG/02`| Flipped Classroom: Flipped Learning Laboratory                     | 4 |
-|`LNG/02`| Principles of Content & Language Integrated Learning               | 4 |
-|`LNG/02`| Adaptation of Authentic Materials for Teaching                     | 2 |
-|`LNG/02`| Instruction of Specialized Languages                               | 4 |
-|`LNG/10`| Pedagogy of English Literary Texts                                 | 3 |
-|`LNG/12`| English Language Proficiency Enhancement                           | 6 |
-|        | Final Exams                                                        | 1 |
-
 ## 👾 Bachelor Degree in Computer Science L31 - 180 Credits
 
-|**Area**|**Course Name**                                  |**Credits**|
-|:------:|:------------------------------------------------|:---------:|
-|`LNG/12`| English Language                                |  6 |
-|`PHY/01`| History and Evolution of Computing              |  6 |
-|`CSE/01`| Formal Languages & Compilers                    |  6 |
-|`CSE/01`| Procedural & Object-Oriented Programming        | 12 |
-|`CSE/01`| Computer Architecture                           |  6 |
-|`MAT/05`| Mathematics                                     | 12 |
-|`IUS/20`| Laws and Regulations for Information Technology |  6 |
-|`CSE/01`| Operating Systems                               |  9 |
-|`CSE/01`| Software Engineering                            |  9 |
-|`CSE/01`| Relational & Non-Relational Databases           | 12 |
-|`INF/03`| Computer Networks                               | 12 |
-|`CSE/01`| Algorithms & Data Structures                    |  9 |
-|`PHY/01`| Physics                                         |  7 |
-|`MAT/04`| History of Mathematics                          |  6 |
-|`MAT/08`| Numerical Analysis                              |  6 |
-|`INF/05`| Mobile Application Development                  |  9 |
-|`CSE/01`| Artificial Intelligence                         |  6 |
-|`AGR/05`| Geographic Information Systems                  |  6 |
-|`CSE/01`| Game Design & Development                       |  6 |
-|`CSE/01`| Internet of Things & Principles of Automation   |  3 |
-|`INF/01`| Effective Communication                         |  3 |
-|`MAT/09`| Operations Research & Linear Programming        |  6 |
-|`STA/02`| Statistics for Technological Research           |  6 |
-|        | Internship (Technician)                         |  7 |
-|        | Experimental Thesis                             |  4 |
+|**Area**|**Course Name**                                    |**Credits**|
+|:-------|:--------------------------------------------------|:---------:|
+|`SH4_8`          | English Language **CERF B1**                    |  6 |
+|`SH6_14`         | History and Evolution of Computing              |  6 |
+|`SH4_9` `PE6_4`  | Formal Languages & Compilers                    |  6 |
+|`PE6_3`          | Procedural & Object-Oriented Programming        | 12 |
+|`PE6_1` `PE6_2`  | Computer Architecture                           |  6 |
+|`PE1_8` `PE1_2`  | Mathematics                                     | 12 |
+|`SH1_14`         | Laws and Regulations for Information Technology |  6 |
+|`PE6_3` `PE6_2`  | Operating Systems                               |  9 |
+|`PE6_3`          | Software Engineering                            |  9 |
+|`PE6_10`         | Relational & Non-Relational Databases           | 12 |
+|`PE7_8` `PE6_2`  | Computer Networks                               | 12 |
+|`PE6_6` `PE1_16` | Algorithms & Data Structures                    |  9 |
+|`PE2_6` `PE2_13` | Physics                                         |  7 |
+|`SH6_14`         | History of Mathematics                          |  6 |
+|`PE1_17` `PE1_18`| Numerical Analysis                              |  6 |
+|`PE6_9` `PE6_10` | Mobile Application Development                  |  9 |
+|`PE6_7` `PE6_11` | Artificial Intelligence                         |  6 |
+|`SH2_12`         | Geographic Information Systems                  |  6 |
+|`PE6_8`          | Game Design & Development                       |  6 |
+|`PE7_1` `PE6_2`  | Internet of Things & Principles of Automation   |  3 |
+|`SH3_12` `SH4_11`| Effective Communication                         |  3 |
+|`PE1_19` `SH1_6` | Operations Research & Linear Programming        |  6 |
+|`PE1_14` `PE1_20`| Statistics for Technological Research           |  6 |
+|`PE7_8`          | **Internship** (140h, Network Technician)       |  7 |
+|`PE6_3` `SH4_9`  | **Experimental Thesis** Discussion & Defence    |  4 |
+
+## 🇬🇧 Content & Language Integrated Learning (CLIL) PERF1 - 60 Credits
+
+|**Area**|**Course Name**                                                      |**Credits**|
+|:-------|:--------------------------------------------------------------------|:---------:|
+|`SH4_1` `SH3_11` | Cognitive, Motivational & Social Foundations of Learning Processes | 5 |
+|`SH2_4` `SH3_7`  | Laws and Regulations for Public & Private Education                | 4 |
+|`SH4_1` `SH3_3`  | Special Needs Education                                            | 5 |
+|`SH3_11` `SH4_1` | Educational Practices & Teaching Methods for Schools               | 4 |
+|`SH4_8` `SH4_1`  | Specific Processes of Language Acquisition                         | 3 |
+|`SH4_8` `SH3_11` | Principles of Foreign Language Teaching                            | 3 |
+|`SH4_8` `SH4_11` | Evaluation Methods of Language & Communication Skills              | 3 |
+|`PE6_3`          | Basics of Computer Science                                         | 3 |
+|`SH3_12` `SH3_11`| Multimodal Teaching and Creation of Multimedia Content             | 6 |
+|`SH3_11`         | Flipped Classroom: Flipped Learning Laboratory                     | 5 |
+|`SH4_8` `SH3_11` | Principles of Content & Language Integrated Learning               | 4 |
+|`SH4_11` `SH4_8` | Adaptation of Authentic Materials for Teaching                     | 2 |
+|`SH4_11` `SH4_8` | Instruction of Specialized Languages                               | 4 |
+|`SH5_2`          | Pedagogy of English Literary Texts                                 | 3 |
+|`SH4_8`          | English Language Proficiency Enhancement                           | 6 |
 
 ## 📚 Subject Areas
 
-These subject codes are a direct translation of the Italian `SSD` codes.
+These subject codes are dictated by the **European Research Council**.
+[Detailed list of areas and subjects](https://erc.europa.eu/sites/default/files/document/file/ERC_Panel_structure_2020.pdf).
 
-- `CSE`: `INF` Computer Science & Engineering
-- `INF`: `ING-INF` Information Technology & Software Engineering
-- `PHY`: `FIS` Physics
-- `MAT`: `MAT` Mathematics
-- `STA`: `STA` Statistics
-- `LNG`: `L-LIN` Languages & Cultures
-- `IUS`: `IUS` Laws and Regulations
-- `AGR`: `AGR` Agricolture & Territory
-- `PSY`: `PSI` Psychology
-- `PED`: `PED` Pedagogy
+- `PE1`: Mathematics
+- `PE2`: Fundamental Constituents of Matter
+- `PE6`: Computer Science & Informatics
+- `PE7`: Systems & Communication Engineering
+- `SH1`: Individuals, Markets & Organisations
+- `SH2`: Institutions, Values, Environment & Space
+- `SH3`: The Social World, Diversity, Population
+- `SH4`: The Human Mind and Its Complexity
+- `SH5`: Cultures and Cultural Production
+- `SH6`: The Study of the Human Past
+
